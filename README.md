@@ -1,4 +1,4 @@
-🏊‍♂️ 1. Yüzme Disiplini & Hidrodinamik Akış (Hacettepeliler)
+🏊‍♂️ 1. Yüzme Disiplini & Hidrodinamik Akış
  * Temel Branş & Uzmanlık: Türkiye Yüzme Federasyonu (TYF) lisanslı, millî statüye sahip bireysel yüzücü kimliğiyle 50m serbest ve 50m kelebek sprint patlamaları.
  * Fiziksel Kanun: E_k = \frac{1}{2} mv^2 (Sürtünmesiz su altı çıkışı, patlayıcı start gücü ve Cd = 0.0 hidrodinamik akışkanlık).
  * Odak: Milisaniyelik dönüşler, suyun direnç katsayısını sıfıra indiren hidrodinamik vücut pozisyonu ve patlayıcı anaerobik kapasite.
